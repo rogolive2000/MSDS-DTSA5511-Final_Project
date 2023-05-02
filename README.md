@@ -2,6 +2,8 @@
 
 # Bees vs Wasps
 
+https://www.kaggle.com/datasets/jerzydziewierz/bee-vs-wasp
+
 ## Synopsis
 
 Hand-curated, close-up photos of `bees`, `wasps`, and `other` insects. The challenge is primarily to distinguish bees from wasps. 
